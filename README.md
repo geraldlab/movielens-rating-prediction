@@ -9,3 +9,4 @@ This repository contains following files:
 - R script that generated the predictions and calculates RMSE (analysis.R)
 
 The project was created to fulfil the requirements of the HarvardX: PH125.9x - Data Science: Capstone I project.
+
